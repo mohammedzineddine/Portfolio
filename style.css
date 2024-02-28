@@ -1056,3 +1056,18 @@
     .footer-list { margin-inline: 0; }
   
   }
+  /* Social media icons */
+.social-media {
+  margin-top: 20px;
+}
+
+.social-media-link {
+  display: inline-block;
+  margin-right: 10px;
+  color: var(--white); /* Adjust as needed */
+  font-size: 24px;
+}
+
+.social-media-link:hover {
+  color: var(--orange-soda); /* Adjust as needed */
+}
